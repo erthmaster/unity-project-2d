@@ -6,7 +6,10 @@ My UnityEngine 2D template
 - [BetterHirearchy](https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963)
 - [NaughtyAttributes](https://assetstore.unity.com/packages/p/naughtyattributes-129996)
 - [DarkMode ofr Unity Editor on Windows](https://assetstore.unity.com/packages/tools/gui/darkmode-for-unity-editor-on-windows-281842)
+- PrimeTween
 
 ---
+
+Unity engine version - 6000.0.35f1
 
 _!README may be outdated!_
