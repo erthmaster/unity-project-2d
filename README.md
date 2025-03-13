@@ -10,4 +10,6 @@ My UnityEngine 2D template
 
 ---
 
+Unity engine version - 6000.0.35f1
+
 _!README may be outdated!_
